@@ -1,6 +1,6 @@
 This software is released under MIT license.
 The author of this software does not claim any responsibility for any issues, bugs, defects, and/or
-malfunction of the software in form or use.
+malfunction of the software in any form or use.
 ---------------------------------------------------------------------------------------------
 MIT License
 Copyright <2022> <voidptr007@gmail.com>
