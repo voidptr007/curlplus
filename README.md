@@ -18,7 +18,7 @@ Run make
 Run curlplus_test
 
 ```
-cd simplicurl
+cd curlplus
 mkdir build
 cd build
 cmake ..
