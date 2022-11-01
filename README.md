@@ -1,4 +1,4 @@
-# Project: curlplus
+## Description
 curlplus is a C++ wrapper over curl easy APIs. 
 It provides APIs to perform get, put and post operations using curl easy APIs.
 
